@@ -10,7 +10,9 @@ class employee:
         print (f"Employee is now travelling to {destination}")
 
 # CREATE an obj/instance of the class
-
+# printing a attributes
 sam = employee()
 # print (sam.id)
+
+#calling a method
 sam.travel("pune")
